@@ -309,7 +309,7 @@ var chessModule = {};
 				myWin[k] = 'null';
 
 				if (computerWin[k] === 5) {
-					showAlert('小a小赢一局了，您要再接再厉哦！','加油');
+					showAlert('小a小赢一局，您要再接再厉哦！','加油');
 					over = true;
 				}
 			}
